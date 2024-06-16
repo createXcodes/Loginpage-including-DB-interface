@@ -8,6 +8,6 @@
 
 - CSS 
  
-<img align="center" src="https://cdn.dribbble.com/users/1966037/screenshots/6427766/______.gif" alt="DATA-STORAGE">
+<img align="center" src="https://cdn.dribbble.com/users/1746237/screenshots/11276091/media/fa47c19cbbbc00b2f5eceda0459c34db.gif" alt="DATA-STORAGE">
 
 
