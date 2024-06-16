@@ -18,5 +18,13 @@
 - Div 
 - Img 
 
-And Many More .. 
+And Many More ..
+ 
+<img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
+- JAVASCRIPT [JS]
 
+- 
+- 
+- 
+-
+ 
