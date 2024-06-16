@@ -13,7 +13,7 @@
 <img width="45" height="45" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/> 
 -  HTML5 [ Hyper Text Markup Language ] 
 
-- Using the in our Login Page We are going to structuru our web design like :- 
+- Using the in our Login Page We are going to structure our web design like :- 
 - Text 
 - Div 
 - Img 
@@ -27,6 +27,21 @@ And Many More ..
 - For User Input Data
 
 And Many More .. 
+
+<img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
+
+- CSS [CASCADING STYLE SHEET]
+
+- Colour 
+- Mirgin
+- Padding 
+- Design 
+- Border 
+- Text Style 
+- Font color 
+- Font size 
+
+Any Many More //
 
 
  
