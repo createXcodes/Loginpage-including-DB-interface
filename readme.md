@@ -43,7 +43,7 @@ And Many More ..
 - Font size 
 
 Any Many More 
-<img width="200" align="right" src="https://media.geeksforgeeks.org/wp-content/uploads/20210308225708/mysqldatabase6.jpg" />
+<img width="400" align="right" src="https://media.geeksforgeeks.org/wp-content/uploads/20210308225708/mysqldatabase6.jpg" />
 <img width="100" height="100" src="https://img.icons8.com/stickers/100/php-server.png" alt="php-server"/>
  
 - PHP [Hypertext Preprocessor]
