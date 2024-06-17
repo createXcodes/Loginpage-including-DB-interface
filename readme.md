@@ -8,7 +8,7 @@
 
 - CSS 
 
-<img align="center" width="700" height="700" src="https://cdn.dribbble.com/users/1746237/screenshots/11276091/media/fa47c19cbbbc00b2f5eceda0459c34db.gif" alt="DATA-STORAGE" withd="100">
+<img align="center" width="700"  src="https://cdn.dribbble.com/users/1746237/screenshots/11276091/media/fa47c19cbbbc00b2f5eceda0459c34db.gif" alt="DATA-STORAGE" withd="100">
 
 <img width="45" height="45" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/> 
 -  HTML5 [ Hyper Text Markup Language ] 
