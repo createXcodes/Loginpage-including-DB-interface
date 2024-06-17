@@ -8,7 +8,7 @@
 
 - CSS 
 
-<img align="center" src="https://cdn.dribbble.com/users/1746237/screenshots/11276091/media/fa47c19cbbbc00b2f5eceda0459c34db.gif" alt="DATA-STORAGE" withd="100">
+<img align="center" width="700"  src="https://cdn.dribbble.com/users/1746237/screenshots/11276091/media/fa47c19cbbbc00b2f5eceda0459c34db.gif" alt="DATA-STORAGE" withd="100">
 
 <img width="45" height="45" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/> 
 -  HTML5 [ Hyper Text Markup Language ] 
@@ -40,10 +40,18 @@ And Many More ..
 - Border 
 - Text Style 
 - Font color 
-- Font size 
+- Font size
 
 Any Many More 
-<img width="200" align="right" src="https://media.geeksforgeeks.org/wp-content/uploads/20210308225708/mysqldatabase6.jpg" />
+
+<img width="400" align="right" src="https://media.geeksforgeeks.org/wp-content/uploads/20210308224628/mysqldatabase5.jpg" />
+
+<img width="400" align="right" src="https://media.geeksforgeeks.org/wp-content/uploads/20210316195142/php3.jpg" />
+
+
+<img width="400" align="right" src="https://media.geeksforgeeks.org/wp-content/uploads/20210308225708/mysqldatabase6.jpg" />
+
+
 <img width="100" height="100" src="https://img.icons8.com/stickers/100/php-server.png" alt="php-server"/>
  
 - PHP [Hypertext Preprocessor]
