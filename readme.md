@@ -46,3 +46,9 @@ Any Many More
 
 <img width="100" height="100" src="https://img.icons8.com/stickers/100/php-server.png" alt="php-server"/>
  
+- PHP [Hypertext Preprocessor]
+
+- Xammp server for Database storage 
+- phpmyadmin for database setup 
+- Website php connection to Database 
+- JQuery for php Database connection 
