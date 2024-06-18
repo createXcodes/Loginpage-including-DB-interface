@@ -1,0 +1,141 @@
+body{
+    padding: 10%;
+    
+}
+
+.InputField{
+margin: 0 auto;
+padding: 10px;
+width: 340px;
+border: 7px solid #000000;
+border-radius: 25px;
+border: 2px solid #000000;
+padding: 10px;
+width: 350px;
+height: 350px;
+
+
+}
+body img {
+    padding-left: 35%;
+    
+    
+}
+body{
+    background:  linear-gradient( rgb(0, 0, 70),rgb(0, 0, 0));
+}
+
+body center{
+    color: greenyellow;
+   
+}
+
+.InputField [type="submit"]{
+    margin: 0 auto;
+    font-weight: bold;
+    padding: 5px;
+    width: 100px;
+    align-items: center;
+    justify-content: center;
+
+    
+}
+.FormatBorder{
+
+    margin: 0 auto;
+    padding: 10px;
+    width: 328px;
+    
+
+}
+
+
+
+
+.InputField{
+    background: linear-gradient( rgba(0, 0, 0, 0.651) , rgba(7, 7, 7, 0.61));
+
+
+ 
+  
+}
+
+
+
+body [type="text"] {
+    margin: 0 auto;
+    padding: 3px;
+    width: 250px;
+    font-weight: bold;
+    margin-left: 30px;
+    
+
+}
+body [type="password"]{
+    
+    margin: 0 auto;
+    padding: 3px;
+    width: 250px;
+    font-weight: bold;
+    margin-left: 30px;
+
+}
+
+body [type="email"]{
+   
+    margin: 0 auto;
+    padding: 3px;
+    width: 250px;
+    font-weight: bold;
+    margin-left: 30px;
+
+}
+
+
+
+.FormatBorder center{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.FormatBorder [type="checkbox"]{
+    width: 33px; 
+    height: 33px; 
+    margin-left: 10px;
+    
+
+
+}
+
+.FormatBorder [type="submit"]:hover{
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+    background: rgba(164, 255, 28, 0.815);
+    
+ 
+  
+}
+
+.FormatBorder [type="submit"]{
+    margin: 0 auto;
+   
+    font-weight: bold;
+    margin-left: 110px;
+}
+
+*{
+
+
+
+}
+
+.Video{
+    
+    
+}
+
+body [type="submit"]{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
